@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome] 👋
+# Olá, sou o GABRIEL SILVANO 👋
 
 🎓 Atualmente, estou no terceiro semestre de Desenvolvimento de Sistemas, explorando e aprendendo todos os dias sobre tecnologia e inovação.
 
