@@ -1,6 +1,6 @@
 # Olá, sou o GABRIEL SILVANO 👋
 
-🎓 Atualmente, estou no terceiro semestre de Desenvolvimento de Sistemas, explorando e aprendendo todos os dias sobre tecnologia e inovação.
+🎓 Atualmente, estou cursando no quarto semestre de Análise Desenvolvimento de Sistemas, explorando e aprendendo todos os dias sobre tecnologia e inovação.
 
 ## Tecnologias e Interesses
 - 🌐 **HTML** & **JavaScript**: Construindo interfaces web incríveis e interativas.
