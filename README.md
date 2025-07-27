@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 </div>
 
