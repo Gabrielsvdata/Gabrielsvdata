@@ -4,7 +4,7 @@
 
 ---
 
-🎓 Atualmente estou no 4º semestre de **Análise e Desenvolvimento de Sistemas** e sou apaixonado por aprender com projetos reais e colaborativos.
+🎓 Atualmente estou no 5º semestre de **Análise e Desenvolvimento de Sistemas** e sou apaixonado por aprender com projetos reais e colaborativos.
 
 ---
 
