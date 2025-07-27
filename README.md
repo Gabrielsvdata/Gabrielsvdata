@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-AI-7B61FF?style=for-the-badge&logo=OpenAI&logoColor=white"/>
 </div>
 
 ---
