@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu sou o GABRIEL SILVANO! 👋</h1>
 
-<p align="center">🚀 Desenvolvedor em formação | Entusiasta de tecnologia e soluções práticas</p>
+<p align="center">🚀 Desenvolvedor em formação | Tecnologia e soluções práticas</p>
 
 ---
 
-🎓 Atualmente estou no 5º semestre de **Análise e Desenvolvimento de Sistemas** e sou apaixonado por aprender com projetos reais e colaborativos.
+🎓 Atualmente estou no 6º semestre de **Análise e Desenvolvimento de Sistemas** e sou apaixonado por aprender com projetos reais e colaborativos.
 
 ---
 
@@ -27,7 +27,7 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| [Sispar-Backend](https://github.com/Gabrielsvdata/Sispar-Backend) | API em Flask para controle de reembolsos |
+| [Sispar-Backend](https://github.com/Gabrielsvdata/Sispar-Backend) | API em Flask para controle de reembolsos e inteligencia artificial |
 | [Sispar-Frontend](https://github.com/Gabrielsvdata/Sispar-Frontend) | Interface React conectada à API |
 | [Gerenciador de Gastos](https://github.com/Gabrielsvdata/gerenciador-gastos) | App com IA que sugere economia baseada nos gastos |
 
