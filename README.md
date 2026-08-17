@@ -1,5 +1,5 @@
 # Gabriel Silvano
-### Desenvolvedor Full Stack | Backend | Dados & IA Aplicada
+### Backend Developer |Dados & IA Aplicada
 
 Desenvolvedor Full Stack com foco em Backend. Construo APIs REST, integro
 Inteligência Artificial a produtos digitais e trabalho com dados para resolver
@@ -26,4 +26,4 @@ SQL e suporte a sistemas.
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-silvano-vieira-2615a618b/) · [GitHub](https://github.com/Gabrielsvdata)
+[LinkedIn](https://www.linkedin.com/in/gabriel-silvano-vieira-2615a618b/) · [GitHub](https://github.com/Gabrielsvdata) · [Portfolio](https://gabrielsilvano.vercel.app/))
