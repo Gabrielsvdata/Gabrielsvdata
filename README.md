@@ -1,5 +1,5 @@
 # Gabriel Silvano
-### Backend Developer |Dados & IA Aplicada
+### Fullstack Developer |Dados & IA Aplicada
 
 Desenvolvedor Full Stack com foco em Backend. Construo APIs REST, integro
 Inteligência Artificial a produtos digitais e trabalho com dados para resolver
