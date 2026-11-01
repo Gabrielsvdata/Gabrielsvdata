@@ -7,7 +7,7 @@ Construo sistemas web do banco à tela e coloco no ar com deploy contínuo. Hoje
 <p>
   <a href="https://gabrielsilvano.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-gabrielsilvano.pages.dev-111111?style=for-the-badge" alt="Portfólio"></a>
   <a href="https://linkedin.com/in/gabriel-silvano-vieira"><img src="https://img.shields.io/badge/LinkedIn-gabriel--silvano--vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://wa.me/5511974019394?text=Oi%20Gabriel!%20Vi%20seu%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-falar%20com%20meu%20assistente-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://wa.me/5511974019394?text=Oi%20Gabriel!%20Vi%20seu%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-11%2097401--9394-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ## Teste agora, sem cadastro
